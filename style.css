@@ -1,0 +1,744 @@
+.my-container
+{
+    width:95% !important;
+}
+
+.top
+{
+    padding-top: 50px;
+    background-image: url('./images/hero-img.png');
+    background-size: cover;
+    padding-bottom: 200px;
+    font-size: 16px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    
+}
+.off-white
+{
+    color:rgb(223, 217, 217)
+}
+
+
+.header-part-row
+{
+    margin-top: 200px !important;
+    font-weight: bold !important;
+    font-size: xx-large !important;
+    width: 100% !important;
+}
+
+.header-part-row2
+{
+    margin-top: 20px;
+    color:rgb(165, 156, 156);
+    width: 100% !important;
+}
+
+.grey-col
+{
+ 
+    color:rgb(165, 156, 156) !important;   
+}
+
+.nav-2
+{
+    
+    color:rgb(165, 156, 156) !important;
+}
+.nav-3
+{
+    
+    color:white;
+    margin-top: -10px !important;
+}
+
+.h-var
+{
+color:azure;
+
+}
+.h-button
+{
+    text-align: center;
+    background-color:#fab95b;
+    padding: 15px;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 35px;
+    height: 60px;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.font-
+{
+    font-size: 16px;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"!important;
+}
+
+
+
+.circle
+{
+ 
+    background-color:#fab95b;
+   
+   
+    color: azure;
+       
+}
+
+
+
+.lower-services
+{
+    margin-top: 35px !important;
+    margin-bottom: 150px;
+
+}
+
+
+.client-style
+{
+    margin: top 180px !important;
+    background-color:#fab95b;
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.client-review
+{
+    margin-top:20px !important;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.quote
+{
+    font-size: large !important;
+    margin-top:80px !important;
+}
+
+.dots
+{
+    font-size: large !important;
+    margin-top:20px !important;
+
+}
+
+.servi{
+    padding-top: 150px;
+     text-align: center; 
+     margin-bottom: 100px;
+}
+
+.about-me-col-2
+{
+
+    margin-top: 90px !important;
+    margin-left: 30px;
+}
+
+
+
+
+.percentage
+{
+    width: 100%!important;
+}
+
+.bar
+{
+    height: 5px;
+    margin-bottom: 40px;
+}
+
+  
+  .progress{
+      margin-right: 0px;
+      overflow: visible;
+  }
+  .progress-bar{
+    margin-right: 0px;
+}
+
+  .progress .progress-bar span {
+    background-color: #fab95b !important;
+    position: absolute !important;
+    bottom: -20px !important;
+    font-size: 10px !important;
+    line-height: 10px;
+    padding: 2px 3px 2px 4px;
+    right: -1.4em;
+    border-radius: 2px !important;
+  }
+
+  hr.new4 
+  {
+    border: 1px solid white;
+  }
+
+  
+.start
+{
+    text-align: start !important;
+}
+
+.send-button
+{
+    margin-top: 25px; 
+    width: 255px;
+    text-align: center;
+    background-color:rgb(58, 51, 51);
+    padding: 20px;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 35px;
+    height: 60px;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+.img
+{
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+}
+
+
+
+.blog-1
+{
+    
+    color: #202124;  font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 1rem!important; box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+    
+  
+                        
+}
+
+.blog-2
+{
+    
+    color: #202124;text-align: left; font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 1rem!important; box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+    
+   
+}
+
+.blog-3
+{
+    
+    color: #202124;text-align: left; font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 1rem!important; box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+    
+    
+                        
+}
+
+.img1
+{
+    margin-bottom: 30px;
+   
+}
+
+.read
+{
+    color:#fab95b;
+}
+  
+.footer
+{
+    margin-top: 120px;
+}
+
+.services-col-1
+{
+color: #202124; margin-top:30px;text-align: left; font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 1rem!important; box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+display: flex;
+margin-left: 150px;
+background-color: white !important;
+}
+
+.services-col-2{
+display: flex;
+background-color: white !important;
+margin-left: 35px;
+color: #202124; margin-top:30px;text-align: left; font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 1rem!important; box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;}
+
+
+@media only screen and (min-width: 800px) 
+{
+    /* For desktop: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66% !important; }
+    .col-s-3 {width: 25% !important;}
+    .col-s-4 {width: 33.33% !important;}
+    .col-s-5 {width: 41.66% !important;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66% !important;}
+    .col-12 {width: 100%;}
+    .smalo
+     {
+        width:95% !important;
+     }
+    .pop1
+    {margin-left: 1% !important;
+    }
+    
+    .circle-position
+    {
+        margin-right: 20px !important; 
+        margin-left: 20px !important; 
+        margin-top: 10px;
+     
+    }
+      .circle
+    {
+        position: relative;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 50%;
+        background: #fab95b;
+        display: inline-block;
+        color: #fff;
+        text-align: center;
+    } 
+
+    .header-part
+    { margin-top: 80px; color: azure ; width:90%;}
+    
+   
+    .about-style
+{
+
+    margin-top: 150px !important;
+}
+
+    .about-me-col-1
+    {
+     margin-left: 8%;
+    }
+    .about-me-col-2
+{
+
+    margin-left: 3%;
+}
+
+    .hi-style-1
+  {
+      margin-left: 8% !important;
+      margin-top: 120px !important;
+      width: 45% !important;
+  }
+
+  .hi-style-2
+  {
+      margin-left: 15px !important;
+      margin-top: 120px !important;
+      width: 45% !important;
+  }
+
+  .hi-style-3
+  {
+      margin-left: 8% !important;
+      margin-top: 60px !important;
+  }
+  .credo-style
+  {
+      margin-left: 150px;
+      margin-right: 50px;
+  }
+  .header-part
+  {
+      text-align:left !important;
+      width: 90% !important;
+      margin-top: 80px;
+      color: azure;
+      margin-left:235px !important;
+  }
+  .hi-button
+  {
+    margin-left:130px !important;
+    text-align: initial !important;
+  }
+  .copy-container
+  {
+      width:20% !important;
+  }
+  .pop1
+    {margin-left: 4% !important;
+    }
+
+    .services-col-1
+    {
+   
+    margin-left: 8%!important;
+   
+    }
+    
+    .services-col-2
+    {
+  
+    margin-left: 3% !important;
+   }
+  
+   .header-part
+   {
+       text-align:left !important;
+       width: 90% !important;
+       margin-top: 80px;
+       color: azure;
+       margin-left:15px;
+   }
+
+
+ .credo-style
+ {
+    width:90% !important;
+    margin-left: 10px!important;
+ }
+ .credo-style-col
+ {
+    margin-left: 2% !important;
+ }
+ .copy-container
+ {
+     width:90% !important;
+ }
+ .about-style
+{
+
+   margin-top: 30px !important;
+}
+.send-button
+{
+width:150px !important;
+}
+
+.lef
+{
+   margin-right: 10px !important;
+}
+
+.header-part-row
+{
+   padding: 0px !important;
+}
+.larg
+{
+    margin-left: 25% !important;
+}
+.nav-2
+{
+    margin-left: 4% !important;
+  
+}
+.nav-3
+{
+    margin-left: 4% !important;
+    
+}
+.nav-4
+{
+    margin-right: 0% !important;
+}
+
+
+
+.blog-1
+{
+   
+    margin-left: 12% !important;
+    margin-bottom: 6% !important;
+                        
+}
+.blog-2
+{
+   
+    margin-left: 2% !important;
+    margin-bottom: 6% !important;
+                        
+}
+.blog-3
+{
+   
+    margin-left: 2% !important;
+    margin-bottom: 6% !important;
+                        
+}
+.dis
+
+{
+    display: flex !important;
+}
+.lart
+{
+    color:#202124;
+     margin-left:7% !important; 
+     margin-right:7% !important;
+}
+.lart1
+{
+    color:#202124;
+     margin-left:7% !important;
+}
+.small-button
+{
+    visibility: hidden !important;
+}
+.alig {
+    margin-left: 5% !important;
+}
+
+}
+  
+
+
+
+
+/* For mobile: */
+
+
+   
+    
+
+   
+
+/* For mobile: */
+
+
+
+  @media only screen and (max-width: 799px) 
+  {
+    /* For mobile: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66% !important;}
+    .col-12 {width: 100%;}
+    .lart
+{
+    color:#202124;
+     margin-left:4% !important; 
+     margin-right:4% !important;
+}
+
+.lart1
+{
+    color:#202124;
+     margin-left:4%;
+}
+    .blog-small-img
+    {
+        height: 240px !important;
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .about-me-col-1
+    {
+      margin-left: 5px !important;
+    }
+    .about-me-col-2
+    {
+
+    margin-left:15px !important;
+    margin-top: 10px !important;
+     }
+
+    .img
+    {
+        
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+        width: 90%!important;
+        height: 80% !important;
+       
+    }
+    .header-part
+    {
+        text-align:left !important;
+        width: 90% !important;
+        margin-top: 80px;
+        color: azure;
+        margin-left:15px;
+    }
+    .services-col-1
+    {
+        margin-left: 20px !important; 
+        width:90% !important;
+    }
+    .services-col-2
+    {
+        margin-left:20px !important;
+        margin-top: 30px !important; 
+        width: 90% !important;
+        
+    }
+     .smalo
+     {
+        width:95% !important;
+     }
+    .blog-1
+    {
+    
+    margin-left: 6% !important;
+    width:90% !important;
+    margin-top: 10px !important;
+    }
+    .blog-2 
+    {
+    width:90% !important;
+    margin-bottom: 120px;
+    margin-left: 6% !important;
+    margin-top: 10px !important;
+    }
+
+    .blog-3
+    { width:90% !important;
+      margin-left: 6% !important;
+      margin-top: 10px !important;
+                        
+    }
+    .hi-style-1
+  {
+      margin-left: 10px !important;
+      margin-top: 60px !important;
+      width: 45% !important;
+  }
+
+  .hi-style-2
+  {
+      margin-left: 15px !important;
+      margin-top: 60px !important;
+      width: 45% !important;
+  }
+
+  .hi-style-3
+  {
+      margin-left: 15px !important;
+      margin-top: 60px !important;
+  }
+  .hi-button
+  {
+    margin-left: 20px !important;
+    text-align: initial !important;
+  }
+  .credo-style
+  {
+     width:90% !important;
+     margin-left: 10px!important;
+  }
+  .credo-style-col
+  {
+     width:90% !important;
+     margin-left: 10px!important;
+  }
+  .copy-container
+  {
+      width:90% !important;
+  }
+  .about-style
+{
+
+    margin-top: 30px !important;
+}
+.send-button
+{
+width:150px !important;
+}
+.circle-position
+{
+    margin-right: 20px !important; 
+    margin-left: 20px !important; 
+    margin-top: 10px;
+}
+  .circle
+{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    background: #fab95b;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+}    
+
+.lef
+{
+    margin-right: 10px !important;
+}
+.servi{
+    padding-top: 40px;
+     text-align: center; 
+     margin-bottom: 100px;
+}
+
+
+.pop1
+    {margin-left: 1% !important;
+        width:90% !important;
+    }
+
+    .small-button
+    {
+        visibility:visible !important;
+    }
+.bar-left-margin
+{
+    margin-left: 20% !important;
+}
+.my-bar
+{
+    visibility: hidden !important;
+}
+}
+  
+.copyright-style
+{
+    text-align: center;
+    margin-top:65px !important;
+    margin-bottom: 80px !important;
+}
+
+.navbutton
+{
+    color: white;
+    text-align: center;
+}
+ 
+
+  .y-color
+  {
+      color:#fcd890;
+  }
+
+  
+ 
